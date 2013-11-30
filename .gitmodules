@@ -1,0 +1,3 @@
+[submodule "TestSharedLibrary"]
+	path = TestSharedLibrary
+	url = https://github.com/Azathotep/TestSharedLibrary.git
