@@ -10,7 +10,7 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
-            Class1 c = new Class1();
+            SomeClass c = new SomeClass();
         }
     }
 }
